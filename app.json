@@ -30,7 +30,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "29781465",
+        "value": "25955854",
 
         "required": true
 
@@ -40,7 +40,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "6d1dabd000e85d9fbe0e84bb4302150b",
+        "value": "2ede59823a90cb31442a74f5ae01f675",
 
         "required": true
 
@@ -50,7 +50,7 @@
 
         "description": "A Bot's token from Botfather",
 
-        "value": "8063651886:AAG0HEo7E9Bu1Dh9kvndOQ10sYRoPuCSUS8",
+        "value": "7636420885:AAFnkw3eDkNZ5wVa4DtU9DJ_F2UHodpBLhg",
 
         "required": true
 
@@ -60,7 +60,7 @@
 
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
 
-        "value": "mongodb+srv://shigarakisan:demnkin@cluster0.cxt4iov.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "1922300745",
+        "value": "6018803920",
 
         "required": true
 
@@ -80,7 +80,7 @@
 
         "description": "A Pyrogram v2 String Session from Replit.",
 
-        "value": "BQGeps4ABoISXDJuVvQM-QTZXpKTxbM-mOsSgv7I2-8gLj4znpSS-rKqgQAQFS0BP9heyw4Ihlp7W9a2LEPfT4PUPGeDBA8BfF2fDk2qw3IAwV2-j8kMclxlKIoCv30Wk5ovaXCvD8mqnKcNO-bpg6FS31E0YjfaG1eZXBAOdKVetp60tG61QMnMpihq2bOaFnoU-hsapudYBXn8ArGImw9rdco-jucvGR-DWqME393QsIwccPULO00g_ynXkzxLxG7QCWARwQBeJCSN0y1etJwXfHcEBjrNCnJHQhXbN_CQWZ9ocjaPzv5v_6Xyt9TL_n5omDdjUGdrh8nr1LWMNG6SUmgjEwAAAAHjksDXAA",
+        "value": "AQFy0zIAeTrqXAyN24IN6WCSafrxbO81MFls0ObprFIFNDUixJJjgGITAdkghmp2aiWnhMnY-VbLFph-jaMKIEfsw7shXYiB6-qZOVlV0LKm3Imfd8GZ-AWzmj7O_v1VfcwtM8NeLkeJlGbaix6JpQeP_1ZefphDuxdCzrqzEOmaGeWvPj1cs9sjzYgTyAoehubC5XnbVuRU-7Xu6kmPssSQMYMABAZB35EGu47c-RAvyx43MkLKXzBQGKfU2Lx-YElS1U6jCwBTn4z6LYcct7ZT78CT7G-XK-P3PyLylYcGR0j90lGIzud7mJZm8ZNIHc-5NTlG-mxmK3l0MHjNMgW6bM_a9AAAAAGxDHVkAA",
 
         "required": true
 
@@ -110,7 +110,7 @@
 
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
 
-        "value": "-1002650359496",
+        "value": "-1002392274240",
 
         "required": true
 
